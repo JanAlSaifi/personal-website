@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+head {
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+footer {
+}
+
+main {
+}
+
+header {
+}
+
+/* --- SECTIONS -- */
+
+.bg {
+  background-image: url("background-img.jpg");
+  filter: blur(8px);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.header-title {
+}
+
+.navigation {
+}
+
+.navigation-content {
+}
